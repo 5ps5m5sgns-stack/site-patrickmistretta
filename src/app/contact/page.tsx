@@ -124,7 +124,7 @@ export default function ContactPage() {
 
               {/* LinkedIn */}
               <a
-                href="https://www.linkedin.com/in/patrick-mistretta"
+                href="https://www.linkedin.com/in/patrick-mistretta-10b49aa/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 group min-h-[44px]"

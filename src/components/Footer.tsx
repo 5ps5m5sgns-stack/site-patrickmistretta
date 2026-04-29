@@ -72,7 +72,7 @@ export default function Footer() {
           </a>
           <div className="flex gap-4 mt-4">
             <a
-              href="https://www.linkedin.com/in/patrick-mistretta"
+              href="https://www.linkedin.com/in/patrick-mistretta-10b49aa/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs tracking-widest uppercase transition-colors hover:text-white"
